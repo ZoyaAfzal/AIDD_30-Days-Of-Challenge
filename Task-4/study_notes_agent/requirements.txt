@@ -6,4 +6,4 @@ requests
 openai-agents
 litellm
 google-generativeai
-
+PyPDF2
