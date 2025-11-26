@@ -1,4 +1,5 @@
 # PDF Summarizer & Quiz Generator Agent
+https://aidd30-days-of-challenge-2ix9ymsuxku5r54uyuzk8q.streamlit.app/
 
 This project implements an AI-powered PDF Summarizer and Quiz Generator Agent using Streamlit, Google Gemini API, and a simulated OpenAgents SDK with Context7 MCP integration. Users can upload a PDF file, get different types of summaries, and generate quizzes (MCQs or mixed questions) based on the document's content.
 
