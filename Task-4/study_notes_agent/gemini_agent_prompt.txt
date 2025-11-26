@@ -1,0 +1,31 @@
+Follow all instructions written in gemini.md.
+
+Create the full project structure, all Python files, MCP setup, Streamlit UI, and logic exactly as described.
+
+Use Context7 MCP as the tool provider for PDF text extraction.
+
+Implement:
+
+app.py
+
+summarizer.py
+
+quiz_generator.py
+
+agents/pdf_agent.py
+
+mcp_setup/context7_config.json
+
+requirements.txt
+
+README.md
+
+Ensure the agent can:
+
+Summarize PDFs using the original text.
+
+Generate quizzes (MCQs or mixed) with JSON output.
+
+Communicate with Streamlit UI.
+
+After creating all files, initialize the project environment exactly per gemini.md.

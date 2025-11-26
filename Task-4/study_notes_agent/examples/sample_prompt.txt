@@ -1,0 +1,5 @@
+# Example Summary Prompt
+Summarize the provided text in bullet points, focusing on key concepts and avoiding jargon.
+
+# Example Quiz Prompt
+Generate 5 multiple-choice questions from the provided text, each with 4 options, one correct answer, and a brief explanation.
