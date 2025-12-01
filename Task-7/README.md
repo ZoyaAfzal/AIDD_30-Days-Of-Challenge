@@ -7,17 +7,14 @@
  📥 Students must download Spec-Kit Plus and review its 5 core concepts:
 📝 /constitution
 
-
 🧾 /specify
-
 
 🧠 /plan
 
-
 ✍️ /tasks
 
-
 ⚙️ /implement
+
 
 
 ✨ What is Spec-Kit Plus (Short Note)
@@ -29,6 +26,7 @@ Spec-Kit Plus is an advanced toolkit for Spec-Driven Development (SDD), where cl
  Overall, Spec-Kit Plus enforces structured development, reducing errors ⚠️ and producing more maintainable, reliable AI-generated software ✅.
 
 🌟 Core Concepts of Spec-Kit Plus
+
 🏛️ Constitution Phase
 The Constitution Phase sets the foundational rules for a project 📜 by defining coding standards, testing guidelines, and documentation requirements in a single constitution.md file.
  All future specs and code must follow these rules 🧱, ensuring consistency and quality.
@@ -75,8 +73,6 @@ Code to pass them (GREEN) 🟢
 Refactor (REFACTOR) ✨
 
 Tasks are executed in order ⏱️, producing source code, tests, and updated progress aligned with the specification and plan 📊.
-
-
 
 
 
